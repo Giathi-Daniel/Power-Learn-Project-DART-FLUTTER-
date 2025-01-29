@@ -1,4 +1,4 @@
-# bank_landing_page
+# bank_ui
 
 A new Flutter project.
 

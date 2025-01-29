@@ -1,6 +1,6 @@
 {
-    "name": "bank_landing_page",
-    "short_name": "bank_landing_page",
+    "name": "bank_ui",
+    "short_name": "bank_ui",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
